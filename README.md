@@ -52,7 +52,7 @@ Para garantir análises precisas, foram aplicadas modelagens e cálculos avança
 ## 📁 Organização do Projeto
 
 ```
-📦 painelPerformance_academia
+📦 desafiotecnico06_educadados_dashboardacademia
  ┣ 📜 base_dados_academia.xlsx
  ┣ 📜 telaDesafioDataViz.svg
  ┣ 📜 DesafioModulo06DataViz.pbix
