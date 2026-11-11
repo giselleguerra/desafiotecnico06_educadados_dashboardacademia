@@ -80,7 +80,7 @@ Para garantir análises precisas, foram aplicadas modelagens e cálculos avança
 
 <img width="1527" height="855" alt="telapainelperformanceacademia" src="https://github.com/user-attachments/assets/897f5749-3a5e-4f97-be42-b9712faeda34" />
 
-[Clique aqui para acessar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTNlY2FlYWItNzcyMC00NDRlLWI3NGItYjc2Y2YxMTczNzFhIiwidCI6IjU3NjM4MjI3LWY4NWYtNDgwMi05ZjlmLTllYTQxMzdjNjViYSJ9)
+[Clique aqui para acessar o Dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2U2OWNhYWEtNWZhYi00MjE4LWFmOGMtOTc0ZTc5NGUxNDQ0IiwidCI6IjU3NjM4MjI3LWY4NWYtNDgwMi05ZjlmLTllYTQxMzdjNjViYSJ9)
 
 
 Desenvolvido por Giselle Guerra Ramos 🚀
